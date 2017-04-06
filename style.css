@@ -1,4 +1,7 @@
 iframe.youtube {
 	width: 80%;
 	height: auto;
+	margin: auto;
+	padding: none;
+	border: none;
 }
