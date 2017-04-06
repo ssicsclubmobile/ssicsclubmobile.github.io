@@ -1,1 +1,0 @@
-# ssicsclubmobile.github.io
