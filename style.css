@@ -3,3 +3,7 @@ iframe.youtube {
 	height: auto;
 	border: none;
 }
+
+div[data-role="main"] {
+	padding: 5%;
+}
